@@ -1,0 +1,6 @@
+langchain>=0.3.27
+langchain-community
+langchain-ollama==0.3.6
+chromadb
+docling
+pytest
