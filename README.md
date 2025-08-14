@@ -47,5 +47,5 @@ With this system, those documents are automatically ingested, chunked, and store
 ### Installation
 ```bash
 git clone https://github.com/mk-8/Retrieval-Augmented-Generation_RAG.git
-cd usc-dps-rag
+cd Retrieval-Augmented-Generation_RAG
 pip install -r requirements.txt
